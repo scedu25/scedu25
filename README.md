@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Eric! @scedu25
 - 👀 I’m interested in data science, machine learning, and IoT.
-- 🌱 I’ve recently completed my Master's in Computer Science - Data Science at UIUC.
+- 🌱 I recently completed my Master's in Computer Science - Data Science at UIUC.
 - 📫 You can reach me at ericdu625@gmail.com or @ericwdu on LinkedIn.
 
 <!---
